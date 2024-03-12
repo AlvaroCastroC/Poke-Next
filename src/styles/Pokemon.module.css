@@ -1,0 +1,78 @@
+.type {
+    @apply py-[.6em] px-[1em] text-[#FFF] bg-[#000] mr-[0.5em] border border-solid border-[#CCC] rounded-[6px] uppercase text-[0.8em]
+}
+
+
+
+.type_normal {
+    @apply bg-[#aa9] ;
+  }
+  
+  .type_fire {
+    @apply bg-[#f42] ;
+  }
+  
+  .type_water {
+    @apply bg-[#39f] ;
+  }
+  
+  .type_eletric {
+    @apply bg-[#fc3] ;
+  }
+  
+  .type_grass {
+    @apply bg-[#7c5] ;
+  }
+  
+  .type_ice {
+    @apply bg-[#6cf] ;
+  }
+  
+  .type_fighting {
+    @apply bg-[#b54] ;
+  }
+  
+  .type_poison {
+    @apply bg-[#a59] ;
+  }
+  
+  .type_ground {
+    @apply bg-[#db5] ;
+  }
+  
+  .type_flying {
+    @apply bg-[#89f] ;
+  }
+  
+  .type_psychic {
+    @apply bg-[#f59] ;
+  }
+  
+  .type_bug {
+    @apply bg-[#ab2] ;
+  }
+  
+  .type_rock {
+    @apply bg-[#ba6] ;
+  }
+  
+  .type_ghost {
+    @apply bg-[#66b] ;
+  }
+  
+  .type_dragon {
+    @apply bg-[#76e] ;
+  }
+  
+  .type_dark {
+    @apply bg-[#754] ;
+  }
+  
+  .type_steel {
+    @apply bg-[#aab] ;
+  }
+  
+  .type_fairy {
+    @apply bg-[#e9e] ;
+  }
+  
